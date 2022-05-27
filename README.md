@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AlessandroCipolletti/AlessandroCipolletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Visitors))
 ![](https://komarev.com/ghpvc/?username=AlessandroCipolletti&style=for-the-badge)
 
@@ -86,6 +70,10 @@ About web development and startups
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,saas,styledcomponents,svg,wasm,jquery,mongodb,mysql,nodejs,php,py,aws,git,github,vscode,webpack,)](https://skillicons.dev)
+
 
 
 ## Widget
