@@ -72,7 +72,7 @@ About web development and startups
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,saas,styledcomponents,svg,wasm,jquery,mongodb,mysql,nodejs,php,py,aws,git,github,vscode,webpack,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,scss,styledcomponents,svg,wasm,jquery,mongodb,mysql,nodejs,php,py,aws,git,github,vscode,webpack,)](https://skillicons.dev)
 
 
 
