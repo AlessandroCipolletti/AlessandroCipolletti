@@ -1,19 +1,19 @@
 <h1 align="center">Hi everyone 👋 I'm Alessandro</h1>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1024&height=130&lines=Hi+everyone+%F0%9F%91%8B+I'm+Alessandro%2C;a+passionate+Front-End+engineer+from+Italy.;I+love+to+build+complex+and+performing+UIs%2C;and+tools+to+connect+people.;++++++++++)
-
-
 <!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1024&height=130&lines=Hi+everyone+%F0%9F%91%8B+I'm+Alessandro%2C;a+passionate+Front-End+engineer+from+Italy.;I+love+to+build+complex+and+performing+UIs%2C;and+tools+to+connect+people.;++++++++++)](https://git.io/typing-svg)
+-->
+
+
 <div align="center">
   <img
        src="https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1024&height=130&lines=Hi+everyone+%F0%9F%91%8B+I'm+Alessandro%2C;a+passionate+Front-End+engineer+from+Italy.;I+love+to+build+complex+and+performing+UIs%2C;and+tools+to+connect+people.;++++++++++)](https://git.io/typing-svg"
   />
 </div>
--->
+
 
 <br /><br />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,scss,styledcomponents,jquery,mongodb,mysql,nodejs,php,py,aws,git,github,vscode,webpack,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,scss,mongodb,mysql,nodejs,py,aws,git,vscode,webpack)](https://skillicons.dev)
 
 <br /><br />
 [TODO CODE MYSELF]
