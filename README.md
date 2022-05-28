@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="./myself2.png" />  
-</div>
-
-
 <h1 align="center">Hi everyone 👋 I'm Alessandro</h1>
 
 
@@ -19,8 +14,11 @@
 <br /><br />
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,scss,mongodb,mysql,nodejs,py,aws,git,vscode,webpack)](https://skillicons.dev)
 
-<br /><br />
-[TODO CODE MYSELF]
+
+<div align="center">
+  <img src="./myself3.png" />  
+</div>
+
 
 
 <br /><br />
