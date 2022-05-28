@@ -102,12 +102,10 @@
 
 ## Server
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
 -->
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=AlessandroCipolletti&style=for-the-badge)
-</div>
+
+
+![](https://komarev.com/ghpvc/?username=AlessandroCipolletti&style=for-the-badge)
 
 
 
