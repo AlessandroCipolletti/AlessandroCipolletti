@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./myself2.png" />  
+</div>
+
+
 <h1 align="center">Hi everyone 👋 I'm Alessandro</h1>
 
 
