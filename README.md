@@ -23,7 +23,7 @@
 -->
 
 <div align="center">
-  <img src="./myself4.png" />  
+  <img src="./myself.webp" />  
 </div>
 
 <!--
