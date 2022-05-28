@@ -70,7 +70,7 @@ class MySelf extends FrontendEngineer {
         - +300K users used our platform in one year.
         - +30M views on TikTok.
         - We won 25K private founding.
-      `
+      `,
     },
     Pitchy: {
       what:  'Front-End Team Lead',
@@ -86,7 +86,7 @@ class MySelf extends FrontendEngineer {
         - Training for junior colleagues.
         - Video-editing UI with React and StyledComponents.
         - Local file system, animations, exporting with Puppeteer and FFMpeg.
-      `
+      `,
     },
     MaxMara: {
       what:  'iPad Manager',
@@ -100,7 +100,7 @@ class MySelf extends FrontendEngineer {
         - I built the catalog web app.
         - I configured all devices (50+) using the Vodafone Mobile Device Manager software.
         - I trained the shops managers to use an iPad and our new app.
-      `
+      `,
     },
     AppStore: {
       what:  'I published a few web app on the App Store',
@@ -113,7 +113,7 @@ class MySelf extends FrontendEngineer {
         - Learned how to control multi touch inputs.
         - Learned how apple store works.
         - Earned a few thousand euros from an hobby.
-      `
+      `,
     },
     ZenSistemi: {
       what:  'Software Developer / DB manager',
@@ -128,9 +128,9 @@ class MySelf extends FrontendEngineer {
         - Customers service for our users.
         - The main project was a CRM built internally, based on Microsoft Access.
         - Worked on the internal tickets web platform in PHP.
-      `
+      `,
     },
-    byMyselfDuringHighSchool: {
+    byMyself: {
       what:  'Computer Teacher for the elderly',
       when:  'Occasionally between 2008 and 2009',
       about: `
@@ -138,8 +138,8 @@ class MySelf extends FrontendEngineer {
         Google Search, Maps, Gmail, Skype, etc.
       `,
       done: `
-       - I learned that nothing can be taken for granted when you are teaching a beginner. Nothing.
-      `
+        - I learned that nothing can be taken for granted when you are teaching a beginner. Nothing.
+      `,
     },
   })
 
