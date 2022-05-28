@@ -4,51 +4,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1024&height=130&lines=Hi+everyone+%F0%9F%91%8B+I'm+Alessandro%2C;a+passionate+Front-End+engineer+from+Italy.;I+love+to+build+complex+and+performing+UIs%2C;and+tools+to+connect+people.;++++++++++)](https://git.io/typing-svg)
 -->
 
-<!--
-<div align="center">
-  <img
-       src="https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1024&height=130&lines=Hi+everyone+%F0%9F%91%8B+I'm+Alessandro%2C;a+passionate+Front-End+engineer+from+Italy.;I+love+to+build+complex+and+performing+UIs%2C;and+tools+to+connect+people.;++++++++++)](https://git.io/typing-svg"
-  />
-</div>
--->
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,scss,mongodb,mysql,nodejs,py,aws,git,vscode,webpack)](https://skillicons.dev)
-
-<!--
-<div align="center">
-  <img src="./myself3.png" />  
-</div>
-
-<br />
--->
 
 <div align="center">
   <img src="./myself.webp" />  
 </div>
 
+
+
+
+
 <!--
-<br /><br />
-### My articles [TODO]
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-
-
-<br /><br />
-## My Startup Project [TODO]
-
-
-<br /><br />
-## My Npm utils package [TODO]
-
-
-<br /><br />
-### My (italian) Youtube Channel [TODO]
-> About web development and startups
-
-<a href="https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ?sub_confirmation=1">
-  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
-</a>
-
-
 <br /><br />
 ## Mt GitHub activity (public repo only)
 
