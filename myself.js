@@ -1,35 +1,37 @@
 class MySelf extends FrontendEngineer {
-
   getPersonalInfo = () => ({
-    aboutMe: '', // <-- todo
+    aboutMe: `
+      Passionate about the Front-end ecosystem, complex UIs, touch devices,
+      js performance and multi users interaction
+    `,
 
     firstName:  'Alessandro',
     lastName:   'Cipolletti',
     age:         32,
     from:       'Italy',
-    worksSince:  2009,
+    worksSince:  2010,
     
-    mail:      'cipolletti.alessandro@gmail.com',
-    linkedin:  'https://www.linkedin.com/in/alessandro-cipolletti/',
-    github:    'https://github.com/AlessandroCipolletti',
+    mail:     'cipolletti.alessandro@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/alessandro-cipolletti/',
+    github:   'https://github.com/AlessandroCipolletti',
   
-    workingOn:        'https://drawith.me',
-    myOwnNpmPackage:  'https://www.npmjs.com/package/js-math-and-ui-utils',
-    articles:         'https://dev.to/alessandrocipolletti',
-    videos:           'https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ',
+    workingOn:       'https://drawith.me',
+    myOwnNpmPackage: 'https://www.npmjs.com/package/js-math-and-ui-utils',
+    articles:        'https://dev.to/alessandrocipolletti',
+    videos:          'https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ',
 
     livedIn: {
-      Italy: 'until 2013',    // until 23 yeras old
-      Paris: '2013...2017',   // from 23 to 28
-      DigitalNomad: '2018',   // 29
-      Bruxelles: 'from 2019', // until now
+      Italy:        'until 2013',   // until 23 yeras old
+      Paris:        '2013...2017',  // from 23 to 28
+      DigitalNomad: '2018',         // 29
+      Bruxelles:    'from 2019',    // until now
     },
   })
-  
+
   getSkills = () => ({
-    technical: {
-      Javascript: '⭐️⭐️⭐️⭐️⭐️',
-      Html5:      '⭐️⭐️⭐️⭐️⭐️',
+    technical: {                      
+      Javascript: '⭐️⭐️⭐️⭐️⭐️',         
+      Html5:      '⭐️⭐️⭐️⭐️⭐️',         
       Css3:       '⭐️⭐️⭐️⭐️⭐️',
       Git:        '⭐️⭐️⭐️⭐️⭐️',
       MySql:      '⭐️⭐️⭐️⭐️⭐️',
@@ -42,8 +44,8 @@ class MySelf extends FrontendEngineer {
       Typescript: '⭐️⭐️⭐️',
     },
     soft: {
-      problemSolving: '⭐️⭐️⭐️⭐️⭐️',
       codeReview:     '⭐️⭐️⭐️⭐️⭐️',
+      problemSolving: '⭐️⭐️⭐️⭐️⭐️',
       teaching:       '⭐️⭐️⭐️⭐️',
     },
     languages: {
@@ -67,11 +69,11 @@ class MySelf extends FrontendEngineer {
       - We won 25K private founding.
     `,
     Pitchy: `
-      Front-End Team Lead  -  05.2017 / 06.2021  -  React, Redux, IndexedDb, NodeJs, FFMpeg, AWS, Git
+      Front-End Team Lead  -  05.2017 / 06.2021  -  React, Redux, IndexedDb, NodeJs, AWS, Git
 
       Parisian startup - Saas platform to do video editing online 
-      When I joined this startup we were 15 in total, with just 3 developers, and I was the only front-end dev.
-      By the end of my experience we were 60 in total with 14 developers, and I became the front-end team lead.
+      When I joined we were 15 employees. Out of the 3 developers, I was the only front-end dev.
+      4 years later we were 14 developers among 60 emploees, and I was the front-end team lead.
 
       - Code guidelines and code review for the team.
       - Training for junior colleagues.
@@ -81,8 +83,8 @@ class MySelf extends FrontendEngineer {
     MaxMara: `
       iPad Manager  -  03.2012 / 05.2013  -  Vodafone MDM Manager, Sencha Touch
       
-      MaxMara Fashion Group is a very large Italian fashion company, and I've worked in the Research & Development team.
-      My project was to put an iPad in every Italian store to show a real-time catalog to clients.
+      MaxMara is a very large Italian fashion company, and I've worked in the R&D team.
+      My project consisted to put an iPad in every Italian store to show our catalog to clients.
 
       - I built the catalog web app.
       - I configured all devices (50+) using the Vodafone Mobile Device Manager software.
@@ -91,7 +93,7 @@ class MySelf extends FrontendEngineer {
     AppStore: `
       I published a few web app on the App Store  -  Occasionally between 2010 and 2013
 
-      I was fascinated by the multi touch capability of the new iPad, so I built a few web app / small games.
+      I was fascinated by the multi touch capability of the new iPad, so I built a few web app.
       I have encapsulated them inside an app container, and published them on the app store.
 
       - Learned how to control multi touch inputs.
@@ -99,7 +101,7 @@ class MySelf extends FrontendEngineer {
       - Earned a few thousand euros from an hobby.
     `,
     ZenSistemi: `
-      Software Developer  -  10.2009 / 03.2012  -  Visual Basic, Microsoft Access, Sql Server, PHP
+      Software Developer  -  10.2009 / 03.2012  -  Visual Basic, Microsoft Access, SqlServer, PHP
 
       My first job right after high school.
       I did a lot of SQL queries, Visual Basic, and customer care.
@@ -112,17 +114,17 @@ class MySelf extends FrontendEngineer {
     byMyselfDuringHighSchool: `
       Computer Teacher for the elderly  -  Occasionally between 2008 and 2009
 
-      Started as a school project, I continued teaching some elderly people to let them use Google Search,
-      Maps, Gmail, Skype, etc.
+      Started as a school project, I continued teaching some elderly people to let them use
+      Google Search, Maps, Gmail, Skype, etc.
 
-      - I have learned that nothing can be taken for granted when you are teaching a beginner. Nothing.
+      - I learned that nothing can be taken for granted when you are teaching a beginner. Nothing.
     `,
   })
 
   getEducation = () => ({
     neverEndingTraining: {
       when: 'since always',
-      how: 'blogs and books', // my favourite is tympanus.net
+      how: 'blogs and books', // my favorite is tympanus.net
       howOften: 'once a week at least',
     },
     achievements: [{
@@ -136,7 +138,7 @@ class MySelf extends FrontendEngineer {
       how: 'I was awarded for making one of the best term papers of my year',
       termPaper: `
         "Design, build, and sell a led screen"
-        I designed the elettronic circuit, built it, and simulated its sale bulding an online ecommerce.
+        I designed an elettronic circuit, built it, and simulated its sale with an online ecommerce.
       `,
     },
   })
@@ -147,5 +149,4 @@ class MySelf extends FrontendEngineer {
     'Travelling by motorcycle and tent',
     'Astronomy and astrophysics',
   ])
-
 }
