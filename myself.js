@@ -3,20 +3,20 @@ class MySelf extends FrontendEngineer {
   getPersonalInfo = () => ({
     aboutMe: '', // <-- todo
 
-    firstName: 'Alessandro',
-    lastName: 'Cipolletti',
-    age: 32,
-    from: 'Italy',
-    worksSince: 2009,
+    firstName:  'Alessandro',
+    lastName:   'Cipolletti',
+    age:         32,
+    from:       'Italy',
+    worksSince:  2009,
     
-    mail: 'cipolletti.alessandro@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/alessandro-cipolletti/',
-    github: 'https://github.com/AlessandroCipolletti',
+    mail:      'cipolletti.alessandro@gmail.com',
+    linkedin:  'https://www.linkedin.com/in/alessandro-cipolletti/',
+    github:    'https://github.com/AlessandroCipolletti',
   
-    workingOn: 'https://drawith.me',
-    myOwnNpmPackage: 'https://www.npmjs.com/package/js-math-and-ui-utils',
-    articles: 'https://dev.to/alessandrocipolletti',
-    videos: 'https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ',
+    workingOn:        'https://drawith.me',
+    myOwnNpmPackage:  'https://www.npmjs.com/package/js-math-and-ui-utils',
+    articles:         'https://dev.to/alessandrocipolletti',
+    videos:           'https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ',
 
     livedIn: {
       Italy: 'until 2013',    // until 23 yeras old
