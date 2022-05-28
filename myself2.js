@@ -1,4 +1,5 @@
 class MySelf extends FrontendEngineer {
+
   getPersonalInfo = () => ({
     aboutMe: `
       Passionate about the Front-end ecosystem, complex UIs, touch devices,
@@ -56,6 +57,7 @@ class MySelf extends FrontendEngineer {
   })
   
   getRelevantExperiences = () => ({
+
     DrawithMe: {
       what:  'Startup',
       when:  '07.2021 / 06.2022',
@@ -72,6 +74,7 @@ class MySelf extends FrontendEngineer {
         - We won 25K private founding.
       `,
     },
+
     Pitchy: {
       what:  'Front-End Team Lead',
       when:  '05.2017 / 06.2021',
@@ -88,6 +91,7 @@ class MySelf extends FrontendEngineer {
         - Local file system, animations, exporting with Puppeteer and FFMpeg.
       `,
     },
+
     MaxMara: {
       what:  'iPad Manager',
       when:  '03.2012 / 05.2013',
@@ -102,6 +106,7 @@ class MySelf extends FrontendEngineer {
         - I trained the shops managers to use an iPad and our new app.
       `,
     },
+
     AppStore: {
       what:  'I published a few web app on the App Store',
       when:  'Occasionally between 2010 and 2013',
@@ -115,6 +120,7 @@ class MySelf extends FrontendEngineer {
         - Earned a few thousand euros from an hobby.
       `,
     },
+
     ZenSistemi: {
       what:  'Software Developer / DB manager',
       when:  '10.2009 / 03.2012',
@@ -130,6 +136,7 @@ class MySelf extends FrontendEngineer {
         - Worked on the internal tickets web platform in PHP.
       `,
     },
+
     byMyself: {
       what:  'Computer Teacher for the elderly',
       when:  'Occasionally between 2008 and 2009',
@@ -141,6 +148,7 @@ class MySelf extends FrontendEngineer {
         - I learned that nothing can be taken for granted when you are teaching a beginner. Nothing.
       `,
     },
+
   })
 
   getEducation = () => ({
@@ -168,7 +176,7 @@ class MySelf extends FrontendEngineer {
   getInterests = () => ([
     'Browser behaviors and performance',
     'Manga and comics',
-    'Travelling by motorcycle and tent',
     'Astronomy and astrophysics',
+    'Travelling by motorcycle and tent',
   ])
 }
