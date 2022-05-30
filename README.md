@@ -6,12 +6,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,scss,mongodb,mysql,nodejs,py,aws,git,vscode,webpack)](https://skillicons.dev)
 
-<!--
+
 <div align="center">
   <img src="./imgs/myself.webp" />  
 </div>
--->
 
+<!--
 <div align="center">
   <img src="./imgs/info.webp" />  
 </div>
@@ -30,7 +30,7 @@
 <div align="center">
   <img src="./imgs/interests.webp" />  
 </div>
-
+-->
 
 
 
