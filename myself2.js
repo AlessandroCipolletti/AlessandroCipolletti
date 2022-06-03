@@ -20,42 +20,32 @@ class Alessandro extends FrontendEngineer {
     videos:          'https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ',
 
     livedIn: {
-      Italy:        'until 2013',   // until 23 yeras old
+      Italy:        'Until 2013',   // until 23 years old
       Paris:        '2013...2017',  // from 23 to 28
       DigitalNomad: '2018',         // 29
-      Bruxelles:    'from 2019',    // until now
+      Bruxelles:    'From 2019',    // until now
     },
   })
 
   getSkills = () => ({
-    technical: {                      
-      Javascript: '⭐️⭐️⭐️⭐️⭐️',         
-      Html5:      '⭐️⭐️⭐️⭐️⭐️',         
-      Css3:       '⭐️⭐️⭐️⭐️⭐️',
-      Git:        '⭐️⭐️⭐️⭐️⭐️',
-      MySql:      '⭐️⭐️⭐️⭐️⭐️',
-      React:      '⭐️⭐️⭐️⭐️',
-      Redux:      '⭐️⭐️⭐️⭐️',
-      NodeJs:     '⭐️⭐️⭐️⭐️',
-      MongoDb:    '⭐️⭐️⭐️⭐️',
-      SocketIo:   '⭐️⭐️⭐️⭐️',
-      Less:       '⭐️⭐️⭐️⭐️',
-      Typescript: '⭐️⭐️⭐️',
+    technical: {
+      '⭐️⭐️⭐️⭐️⭐️': ['Javascript', 'Html5', 'Css3', 'Git', 'MySql', 'Canvas', 'SVG'],
+      '⭐️⭐️⭐️⭐️': ['React', 'Redux', 'NodeJs', 'MongoDb', 'Socket.Io', 'Less'],
+      '⭐️⭐️⭐️': ['Typescript', 'Python'],
     },
     soft: {
-      codeReview:     '⭐️⭐️⭐️⭐️⭐️',
-      problemSolving: '⭐️⭐️⭐️⭐️⭐️',
-      teaching:       '⭐️⭐️⭐️⭐️',
+      '⭐️⭐️⭐️⭐️⭐️': ['codeReview', 'problemSolving'],
+      '⭐️⭐️⭐️⭐️': ['teaching'],
     },
     languages: {
-      Italian: '⭐️⭐️⭐️⭐️⭐️',
-      French:  '⭐️⭐️⭐️⭐️',
-      English: '⭐️⭐️⭐️',
+      '⭐️⭐️⭐️⭐️⭐️': ['Italian'],
+      '⭐️⭐️⭐️⭐️': ['French'],
+      '⭐️⭐️⭐️': ['English'],
     },
   })
   
   getRelevantExperiences = () => ({
-    DrawithMe: {
+    'Drawith.Me': {
       what:  'Startup Co-founder',
       when:  'Last year: 07.2021 / 06.2022',
       stack: 'VanillaJs, NodeJs, Socket.io, AWS, Git',
@@ -72,7 +62,7 @@ class Alessandro extends FrontendEngineer {
       `,
     },
 
-    Pitchy: {
+    'Pitchy.fr': {
       what:  'Front-End Team Lead',
       when:  '4 years: 05.2017 / 06.2021',
       stack: 'React, Redux, IndexedDb, FFMpeg, NodeJs, AWS, Git',
@@ -89,7 +79,7 @@ class Alessandro extends FrontendEngineer {
       `,
     },
 
-    MaxMara: {
+    'MaxMara Fashion Group - R&D': {
       what:  'iPad Manager',
       when:  '1 year: 03.2012 / 05.2013',
       stack: 'Vodafone MDM Manager, Sencha Touch',
@@ -104,7 +94,7 @@ class Alessandro extends FrontendEngineer {
       `,
     },
 
-    ZenSistemi: {
+    'Zen Sistemi': {
       what:  'Software Developer / DB manager',
       when:  '2 years: 10.2009 / 03.2012',
       stack: 'Visual Basic, Microsoft Access, SqlServer, PHP',
@@ -122,16 +112,18 @@ class Alessandro extends FrontendEngineer {
   })
 
   getEducation = () => ({
-    neverEndingTraining: {
-      when: 'since always',
-      how: 'blogs and books', // my favorite is tympanus.net
-      howOften: 'once a week at least',
+    'Self training': {
+      when: 'Since always',
+      how: 'Blogs and books', // my favorite is tympanus.net
+      howOften: 'Once a week at least',
     },
-    achievements: [{
+
+    'Awards': [{
       when: 2013,
-      what: 'passed the test to join Mensa Italia',
+      what: 'Passed the test to join Mensa Italia',
     }],
-    highSchool: {
+
+    'High School': {
       when: 2009,
       where: 'Experimental High School: BUS Blaise Pascal - Reggio Emilia, Italy',
       what: 'Information technology, Software development, Elettronics',
@@ -151,7 +143,12 @@ class Alessandro extends FrontendEngineer {
   })
 
   getPersonalProjects = () => ({
-    AppStore: {
+    'YouTube': {
+      what: 'I have a small (italian) Youtube channel where I talk about web development and startups',
+      when: 'Last 2 / 3 years',
+    },
+
+    'AppStore': {
       what:  'I published a few web app on the App Store',
       when:  'Occasionally between 2010 and 2013',
       about: `
@@ -165,7 +162,7 @@ class Alessandro extends FrontendEngineer {
       `,
     },
 
-    Teacher: {
+    'Teacher': {
       what:  'Computer Teacher for the elderly',
       when:  'Occasionally between 2008 and 2009',
       about: `
