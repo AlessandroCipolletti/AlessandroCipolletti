@@ -41,17 +41,17 @@ class Alessandro extends FrontendEngineer {
   getSkills = () => ({
     technical: {
       '⭐️⭐️⭐️⭐️⭐️': ['Javascript', 'Html5', 'Css3', 'Git', 'MySql', 'Canvas', 'SVG'],
-      '⭐️⭐️⭐️⭐️': ['React', 'Redux', 'NodeJs', 'MongoDb', 'Socket.Io', 'Less'],
-      '⭐️⭐️⭐️': ['Typescript', 'Python'],
+      '⭐️⭐️⭐️⭐️':   ['React', 'Redux', 'NodeJs', 'MongoDb', 'Socket.Io', 'Less'],
+      '⭐️⭐️⭐️':     ['Typescript', 'Python'],
     },
     soft: {
       '⭐️⭐️⭐️⭐️⭐️': ['Problem solving', 'Code review'],
-      '⭐️⭐️⭐️⭐️': ['Teaching'],
+      '⭐️⭐️⭐️⭐️':   ['Teaching'],
     },
     languages: {
       '⭐️⭐️⭐️⭐️⭐️': ['Italian'],
-      '⭐️⭐️⭐️⭐️': ['French'],
-      '⭐️⭐️⭐️': ['English'],
+      '⭐️⭐️⭐️⭐️':   ['French'],
+      '⭐️⭐️⭐️':     ['English'],
     },
   })
   
