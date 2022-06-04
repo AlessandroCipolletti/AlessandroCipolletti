@@ -34,8 +34,8 @@ class Alessandro extends FrontendEngineer {
       '⭐️⭐️⭐️': ['Typescript', 'Python'],
     },
     soft: {
-      '⭐️⭐️⭐️⭐️⭐️': ['codeReview', 'problemSolving'],
-      '⭐️⭐️⭐️⭐️': ['teaching'],
+      '⭐️⭐️⭐️⭐️⭐️': ['Problem solving', 'Code review'],
+      '⭐️⭐️⭐️⭐️': ['Teaching'],
     },
     languages: {
       '⭐️⭐️⭐️⭐️⭐️': ['Italian'],
