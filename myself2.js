@@ -9,11 +9,11 @@ class Alessandro extends FrontendEngineer {
     age:         32,
     from:       'Italy',
     worksSince:  2010,
-    
+
     mail:     'cipolletti.alessandro@gmail.com',
     linkedin: 'https://www.linkedin.com/in/alessandro-cipolletti/',
     github:   'https://github.com/AlessandroCipolletti',
-  
+
     workingOn:       'https://drawith.me',
     myOwnNpmPackage: 'https://www.npmjs.com/package/js-math-and-ui-utils',
     articles:        'https://dev.to/alessandrocipolletti',
@@ -43,7 +43,7 @@ class Alessandro extends FrontendEngineer {
       '⭐️⭐️⭐️': ['English'],
     },
   })
-  
+
   getRelevantExperiences = () => ({
     'Drawith.Me': {
       what:  'Startup Co-founder',
@@ -64,7 +64,7 @@ class Alessandro extends FrontendEngineer {
 
     'Pitchy.fr': {
       what:  'Front-End Team Lead',
-      when:  '4 years: 05.2017 / 06.2021',
+      when:  '4.5 years: 05.2017 / 12.2021',
       stack: 'React, Redux, IndexedDb, FFMpeg, NodeJs, AWS, Git',
       about: `
         Parisian startup - Saas platform to do video editing online.
@@ -128,9 +128,9 @@ class Alessandro extends FrontendEngineer {
       where: 'Experimental High School: BUS Blaise Pascal - Reggio Emilia, Italy',
       what: 'Information technology, Software development, Elettronics',
       termPaper: `
-        I was awarded for making one of the best term papers of my year:
+        I was awarded for writing one of the best term papers of my year:
         "Design, build, and sell a led screen"
-        I designed an elettronic circuit, built it, and simulated its sale with an online ecommerce.
+        I designed an electronic circuit, built it, and simulated its sale with an online ecommerce.
       `,
       done: `
         - Web development using Javascript Html Css / Php MySql.
