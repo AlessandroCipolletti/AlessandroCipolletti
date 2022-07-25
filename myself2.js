@@ -10,9 +10,9 @@ class Alessandro extends FrontendEngineer {
     from:       'Italy',
     worksSince:  2010,
 
-    mail:     'cipolletti.alessandro@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/alessandro-cipolletti/',
-    github:   'https://github.com/AlessandroCipolletti',
+    mail:       'cipolletti.alessandro@gmail.com',
+    linkedin:   'https://www.linkedin.com/in/alessandro-cipolletti/',
+    github:     'https://github.com/AlessandroCipolletti',
 
     workingOn:       'https://drawith.me',
     myOwnNpmPackage: 'https://www.npmjs.com/package/js-math-and-ui-utils',
@@ -20,10 +20,10 @@ class Alessandro extends FrontendEngineer {
     videos:          'https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ',
 
     livedIn: {
-      Italy:        'Until 2013',   // until 23 years old
-      Paris:        '2013...2017',  // from 23 to 28
-      DigitalNomad: '2018',         // 29
-      Bruxelles:    'From 2019',    // until now
+      Italy:         'Until 2013',   // until 23 years old
+      Paris:         '2013...2017',  // from 23 to 28
+      DigitalNomad:  '2018',         // 29
+      Bruxelles:     'From 2019',    // until now
     },
   })
 
@@ -120,7 +120,7 @@ class Alessandro extends FrontendEngineer {
 
     'Awards': [{
       when: 2013,
-      what: 'Passed the test to join Mensa Italia',
+      what: 'Joined Mensa Italia',
     }],
 
     'High School': {
