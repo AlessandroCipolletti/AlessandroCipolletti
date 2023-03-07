@@ -1,4 +1,4 @@
-class Alessandro extends FrontendEngineer {
+class Alessandro extends FullStackEngineer {
   getPersonalInfo = () => ({
     aboutMe: `
       Passionate about the Front-end ecosystem, complex UIs, touch devices,
@@ -6,7 +6,7 @@ class Alessandro extends FrontendEngineer {
     `,
 
     name:       'Alessandro Cipolletti',
-    age:         32,
+    age:         33,
     from:       'Italy',
     worksSince:  2010,
 

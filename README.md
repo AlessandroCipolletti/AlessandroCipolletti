@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="./imgs/myself3.webp" />  
+  <img src="./imgs/myself.webp" />  
 </div>
 
 <!--
