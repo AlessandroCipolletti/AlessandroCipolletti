@@ -1,127 +1,87 @@
 class Alessandro extends FullStackEngineer {
-  getPersonalInfo = () => ({
+
+  personalInfo = () => ({
+    currentRole:   'Founding Engineer at Arcads.ai',
     aboutMe: `
-      Passionate about the Front-end ecosystem, complex UIs, touch devices,
-      js performance and multi users interaction.
+      Deeply motivated by the AI wave.
+      I enjoy solving complex technical problems while keeping a simple user experience.
+      Love working in startups. I did my own, it failed spectacularly.
+      I read every book I found about the Silicon Valley revolution.
     `,
-
-    name:       'Alessandro Cipolletti',
-    age:         33,
-    from:       'Italy',
-    worksSince:  2010,
-
-    mail:       'cipolletti.alessandro@gmail.com',
-    linkedin:   'https://www.linkedin.com/in/alessandro-cipolletti/',
-    github:     'https://github.com/AlessandroCipolletti',
-
-    workingOn:       'https://drawith.me',
-    myOwnNpmPackage: 'https://www.npmjs.com/package/js-math-and-ui-utils',
-    articles:        'https://dev.to/alessandrocipolletti',
-    videos:          'https://www.youtube.com/channel/UCgeayDnKaNFmhM4InFLIwzQ',
-
-    livedIn: {
-      Italy:         'Until 2013',   // until 23 years old
-      Paris:         '2013...2017',  // from 23 to 28
-      DigitalNomad:  '2018',         // 29
-      Bruxelles:     'From 2019',    // until now
-    },
+    age:            37,
+    from:          'Italy',
+    liveIn:        'Switzerland', // lived in France and Belgium before
+    speaking:      ['Italian', 'English', 'French'],
+    codingSince:   '2009',
   })
 
-  getSkills = () => ({
-    technical: {
-      '⭐️⭐️⭐️⭐️⭐️': ['Javascript', 'Html5', 'Css3', 'Git', 'MySql', 'Canvas', 'SVG'],
-      '⭐️⭐️⭐️⭐️': ['React', 'Redux', 'NextJs', 'NodeJs', 'MongoDb', 'Socket.Io', 'Less'],
-      '⭐️⭐️⭐️': ['Typescript', 'Python'],
-    },
-    soft: {
-      '⭐️⭐️⭐️⭐️⭐️': ['Problem solving', 'Code review'],
-      '⭐️⭐️⭐️⭐️': ['Teaching'],
-    },
-    languages: {
-      '⭐️⭐️⭐️⭐️⭐️': ['Italian'],
-      '⭐️⭐️⭐️⭐️': ['French'],
-      '⭐️⭐️⭐️': ['English'],
-    },
+  skills = () => ({
+    tech: ['Cursor', 'MCP', 'Claude', 'Grok Bot', 'Fal.ai'],
+    dev: [
+      'Ts', 'Js', 'NextJs', 'NestJs', 'NodeJs', 'Html5', 'Css3', 'MySql', 'Postgres', 'Remotion',
+      'React', 'Redux', 'Mastra', 'MongoDb', 'Tailwind', 'Jest', 'Cypress', 'Puppeteer', 'Git', 
+    ],
+    infra: ['AWS', 'Docker'],
+    soft: ['Problem solving', 'Code review', 'Teaching', 'UX'],
   })
 
-  getRelevantExperiences = () => ({
-    'Le Soir': {
-      what:  'Full-Stack Web Developer - Freelance',
-      when:  'From 09.2022',
-      stack: 'NextJs, React, Storybook',
+  relevantExperiences = () => ({
+    'Arcads.ai': {
+      role:  'Founding Engineer',
+      for:   '2 years',
+      stack: 'NextJs, NestJs, NodeJs, TypeScript, Postgres, React, Redux Toolkit, Tailwind, Jest, Mastra',
       about: `
-        Francophone newspaper company - New data-driven plateform built with NextJs 13
-        for the next generation newspaper websites.
-      `,
-      done: `
-        - I created the NextJs project from scratch.
-        - Focus on build time performance.
-        - Caching strategies to support high traffic.
+        Marketing Ai video generation platform. 
+        First founding engineer of the company. Built most of the core features of the platform.
+        Ai video generation, Ai video editing, custom Ai agent for marketing.
       `,
     },
-
+    'Way.co': {
+      role:  'Full-Stack Software Engineer',
+      for:   '1 year',
+      stack: 'NextJs, NodeJs, NestJs, TypeScript, Postgres, React, Redux Toolkit, Jest',
+      about: `
+        An US startup with a saas project to help hotels sell experiences to their guests.
+        Owned the frontend architecture and development, until we got all fired to build a new team in the US.
+      `,
+    },
     'Drawith.Me': {
-      what:  'Startup Co-founder',
-      when:  '1 year: 06.2021 / 07.2022',
-      stack: 'VanillaJs, NodeJs, Socket.io, IndexedDb, AWS, Git',
+      role:  'Startup Co-founder',
+      for:   '1.5 years',
+      stack: 'VanillaJs, NodeJs, Socket.io, IndexedDb, AWS, WebRTC, Canvas2D',
       about: `
-        My startup Drawith.Me - A mobile first web app to draw online with a friend in real time.
-        I founded Drawith.Me because I'm fascinated by what people can do when they work together,
-        and I love building complex yet performing UIs that feel natural to the user.
-      `,
-      done: `
-        - I build the whole platform myself, focused on real-time performances.
-        - +300K users used our platform in one year.
-        - +30M views on TikTok.
-        - We won 25K private founding.
+        My startup experience - A figma for hand drawing on iPads.
+        I builded the whole platform myself, focused on real-time performances.
+        We got millions of views on TikTok, but no revenue.
       `,
     },
-
     'Pitchy.fr': {
-      what:  'Front-End Team Lead',
-      when:  '4.5 years: 05.2017 / 12.2021',
-      stack: 'React, Redux, NodeJs, IndexedDb, FFMpeg, Storybook, AWS, Git',
+      role:  'Front-End Team Lead',
+      for:   '4.5 years',
+      stack: 'React, Redux, NodeJs, IndexedDb, FFMpeg, Storybook, AWS',
       about: `
-        Parisian startup - Saas platform to do video editing online.
+        Saas platform to do video editing online, before remotion was a thing.
         When I joined we were 15 employees. Out of the 3 developers, I was the only front-end dev.
         4 years later we were 14 developers among 60 emploees, and I was the front-end team lead.
       `,
-      done: `
-        - I built a video-editing UI with React used now in more than half of new projects.
-        - Code guidelines and code review for the team.
-        - Training for junior colleagues.
-        - Local file system, animations, exporting with Puppeteer and FFMpeg.
-      `,
     },
-
     'MaxMara Fashion Group - R&D': {
-      what:  'iPad Manager',
-      when:  '1 year: 03.2012 / 05.2013',
-      stack: 'Vodafone MDM Manager, Sencha Touch',
+      role:  'Mobile Web Developer and device manager',
+      for:   '1 year',
+      stack: 'Js, Html5, Css3, Vodafone MDM Manager, Sencha Touch',
       about: `
-        MaxMara is a very large Italian fashion company, and I've worked in the R&D team.
+        MaxMara is a very large Italian fashion company, and I've worked in the R&D team, back in 2012.
         My project consisted in putting an iPad in every Italian store to show our catalog to clients.
-      `,
-      done: `
-        - I built the catalog web app.
-        - I configured all devices (50+) using the Vodafone Mobile Device Manager software.
-        - I trained the shops managers to use an iPad and our new app.
+        I built the catalog web app, configured all devices (50+), and trained the shop managers to use an iPad and our new app.
       `,
     },
-
     'Zen Sistemi': {
-      what:  'Software Developer / DB manager',
-      when:  '2 years: 10.2009 / 03.2012',
-      stack: 'Visual Basic, Microsoft Access, SqlServer, PHP',
+      role:  'Software Developer / DB manager',
+      for:   '2 years',
+      stack: 'Visual Basic, Microsoft Access, SqlServer, PHP, Html, Css',
       about: `
-        My first job right after high school.
-        I did a lot of SQL queries, Visual Basic, and customer care.
-      `,
-      done: `
-        - Database manager on Microsoft SqlServer.
-        - Customers service for our users.
-        - The main project was a CRM built internally, based on Microsoft Access.
-        - Worked on the internal tickets web platform in PHP.
+        The main project was a CRM built internally, based on Microsoft Access.
+        A lot of db management, sql queries, and customer service.
       `,
     },
   })

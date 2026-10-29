@@ -6,99 +6,40 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,nodejs,wasm,mysql,redis,mongodb,jest,react,redux,scss,styledcomponents,aws,git,github,vscode,svg,figma,webpack&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,bun,js,html,css,tailwind,nextjs,wasm,mysql,redis,mongodb,prisma,sequelize,postgres,sqlite,nestjs,jest,react,redux,scss,styledcomponents,cypress,aws,git,github,vscode,svg,figma,webpack,vite,docker,npm,mui,wasm,postman&perline=12)](https://skillicons.dev)
 
 </div>
 
+
+<br />
+
+### 👋 Alessandro, 37, from Italy, based in Switzerland 
+### 🧑‍💻 15+ years of experience 
+### 💻 Founding Engineer at [Arcads](https://www.arcads.ai)
+### 🤖 Into startups, technology and AI
+### 👤 [Linkedin](https://www.linkedin.com/in/alessandro-cipolletti/) 
+### ✉️ cipolletti.alessandro@gmail.com
+ 
+<br />
 
 <div align="center">
   <img src="./imgs/myself.webp" />  
 </div>
 
-<!--
-<div align="center">
-  <img src="./imgs/info.webp" />  
-</div>
-<div align="center">
-  <img src="./imgs/skills.webp" />  
-</div>
-<div align="center">
-  <img src="./imgs/experiences.webp" />  
-</div>
-<div align="center">
-  <img src="./imgs/education.webp" />  
-</div>
-<div align="center">
-  <img src="./imgs/projects.webp" />  
-</div>
-<div align="center">
-  <img src="./imgs/interests.webp" />  
-</div>
--->
+## Founding Engineer at [Arcads](https://www.arcads.ai)
 
+<h3>I often work in startups. I like them, and I started one myself.</h3>
 
+## Personal projects
 
-<!--
-<br /><br />
-## Mt GitHub activity (public repo only)
+<!-- Copy a bullet below when you add the next repo. -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroCipolletti)
+- ⌨️ **[Nodeminal](https://github.com/AlessandroCipolletti/Nodeminal)**<br>
+  A Node terminal and a Node app, running locally inside the browser.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCipolletti&layout=compact)](https://github.com/AlessandroCipolletti/github-readme-stats)
+- 🧮 **[my-js-math-and-ui-utils](https://github.com/AlessandroCipolletti/my-js-math-and-ui-utils)**<br>
+  TypeScript helpers for math and UI that I keep reusing.
 
-
-<br /><br />
-## Languages and libraries
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-## DB
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-# Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-## Testing 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## Version control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-## Packaging
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-## Server
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCipolletti)](https://github.com/anuraghazra/github-readme-stats)
-
-[![AlessandroCipolletti github stats](https://github-readme-stats.vercel.app/api?username=AlessandroCipolletti&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ![](https://komarev.com/ghpvc/?username=AlessandroCipolletti&style=for-the-badge)
 
