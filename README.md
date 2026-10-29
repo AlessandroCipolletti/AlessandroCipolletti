@@ -10,8 +10,15 @@
 
 </div>
 
+<br />
+
+<div align="center">
+  <img src="./imgs/myself.webp" />  
+</div>
 
 <br />
+
+## 💁 Info
 
 ### 👋 Alessandro, 37, from Italy, based in Switzerland 
 ### 🧑‍💻 15+ years of experience 
@@ -19,27 +26,48 @@
 ### 🤖 Into startups, technology and AI
 ### 👤 [Linkedin](https://www.linkedin.com/in/alessandro-cipolletti/) 
 ### ✉️ cipolletti.alessandro@gmail.com
- 
+
 <br />
 
-<div align="center">
-  <img src="./imgs/myself.webp" />  
-</div>
+## 🧑‍💻 Personal projects
 
-## Founding Engineer at [Arcads](https://www.arcads.ai)
+- 🛒 **[Kivro](https://github.com/AlessandroCipolletti/Kivro-v3)**<br>
+  Marketplace where an OpenClaw user publishes a capability they already use.
 
-<h3>I often work in startups. I like them, and I started one myself.</h3>
+- 🏗 **[Wander](https://github.com/AlessandroCipolletti/wander)**<br>
+  Experiment: Describe software. Watch a real interface appear.
 
-## Personal projects
+- 🎦 **[Kairo](https://github.com/AlessandroCipolletti/kairo)**<br>
+  Video demo recorder. Basically a Loom clone for free.
 
-<!-- Copy a bullet below when you add the next repo. -->
+- ✍️ **[Drawith.Me](https://github.com/AlessandroCipolletti/Drawing.Me-TS)**<br>
+  Slim implementation of what was my startup project.
+
+- 📊 **[DataNarra](https://github.com/AlessandroCipolletti/DataNarra)**<br>
+  Experiment: Upload a csv and get a well-structured dashboard back.
+
+- 🤖 **[MaskMe](https://github.com/AlessandroCipolletti/mask-me)**<br>
+  Experiment: apply a mask on your face in real time.
+
+- 👾 **[Ai-Life](https://github.com/AlessandroCipolletti/Ai-Life)**<br>
+  Experiment: Ai-Life simulation, using wasm.
+
+- 🧮 **[my-js-math-and-ui-utils](https://github.com/AlessandroCipolletti/my-js-math-and-ui-utils)**<br>
+  My npm package. TypeScript helpers for math and UI that I keep reusing.
+
+- 🪐 **[Solar-system](https://github.com/AlessandroCipolletti/solar-system)**<br>
+  A three.js solar system simulation.
 
 - ⌨️ **[Nodeminal](https://github.com/AlessandroCipolletti/Nodeminal)**<br>
   A Node terminal and a Node app, running locally inside the browser.
 
-- 🧮 **[my-js-math-and-ui-utils](https://github.com/AlessandroCipolletti/my-js-math-and-ui-utils)**<br>
-  TypeScript helpers for math and UI that I keep reusing.
+- 🐍 **[Simple-js-snake](https://github.com/AlessandroCipolletti/simple-js-snake)**<br>
+  As easy as possible snake game in Js.
 
+- 🧲 **[Magnetism-VanillaJs](https://github.com/AlessandroCipolletti/Magnetism-VanillaJs)**<br>
+  Vanilla Js implementation of coords magnetism inside a canvas.
+
+<br />
 
 ![](https://komarev.com/ghpvc/?username=AlessandroCipolletti&style=for-the-badge)
 
